@@ -1,0 +1,1139 @@
+PAX: https://pax.ulaval.ca
+Titre de la formation: Notions de base de l'apprentissage automatique
+Titre de la session: '2022'
+Description: |-
+  L'apprentissage automatique (<i>machine learning</i>) est un champ d'étude de l'intelligence artificielle et plus particulièrement un ensemble de méthodes de plus en plus utilisées en industrie pour résoudre des problèmes de toutes sortes. Comme les données sont une richesse de plus en plus considérée par les entreprises, il est impératif de mettre en place des mécanismes afin de les lire, de les nettoyer de les analyser et d'en visualiser les conclusions le plus précisément possible.
+
+  Vos activités professionnelles vous demandent d'analyser une grande quantité de données, qu'elles soient ordonnées ou non; cette formation vous propose les bases pour bien comprendre le fonctionnement, les mécanismes, les possibilités et les limites de l'intelligence artificielle.
+
+  Par son approche pratique, cette formation vous permettra d'avoir rapidement accès à des outils, des librairies et des scripts fonctionnels afin d'amorcer vos travaux d'apprentissage automatique sur vos données.
+
+  Elle vous donnera aussi certaines pistes afin de pousser plus loin, et par vous-même, vos apprentissages dans le domaine.
+Objectifs: |-
+  Au terme de cette formation le participant sera en mesure de comprendre la puissance de l'intelligence artificielle comme outil d'analyse de données. Il sera surtout en mesure d'amorcer ses premiers projets par une préparation adéquate de ses données et par l'utilisation de différentes méthodes d'analyses de celles-ci.
+
+  Plus spécifiquement, à la fin de cette formation, le participant sera capable:
+  + d'expliquer le fonctionnement et les mécanismes de l'apprentissage automatique,
+  + d'identifier les possibilités et les limitations actuelles de l'apprentissage automatique,
+  + de procéder au nettoyage d'un jeu de données,
+  + d'expliquer et mettre en œuvre les éléments d'une bonne méthodologie de séparation des données,
+  + d'expliquer la régression et en appliquer 2 méthodes,
+  + d'expliquer la classification et en appliquer 2 méthodes,
+  + de différencier l'apprentissage supervisé et non supervisé,
+  + de différencier les outils de visualisation de données sur Python,
+  + d'utiliser des librairies pour l'application des concepts de bases en Python.
+Date de début: 2022-01-01
+Date de fin: null
+Publié: true
+Pondération des évaluations:
+  Exercices: 15
+  Partiel: 25
+  Final: 35
+  Projets: 20
+  Forum: 5
+Seuil de succès: 95
+Inscription: https://www.brioeducation.ca/cours-activites/notions-de-base-de-l-apprentissage-automatique-nqzcwt300/detail/
+Capsule bienvenue: null
+Capsule site: null
+Capsule forum: https://youtu.be/S5UOvlmEiU0
+Courriel du secrétariat: fc.cfdd@fsg.ulaval.ca
+Type de formation: continue
+Formation multisigle: false
+Unités d'enseignement: 20.0
+Pourcentage min de temps: 50.0
+Pourcentage min de quiz: 100.0
+Salle virtuelle: https://ulaval.zoom.us/j/61216199746?pwd=jkpVACyWnoba8blOCEI9SCG30g2sU1.1
+Liens utiles:
+- Titre: Stack Overflow (forum), pk=6
+  URL: https://stackoverflow.com/questions/tagged/python-3.x/
+- Titre: Documentation Python (en anglais), pk=2
+  URL: https://docs.python.org/3/
+- Titre: Documentation Python (en français), pk=1
+  URL: https://docs.python.org/fr/3/
+Parties:
+- Partie: Introduction, pk=275
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Introduction à l'intelligence artificielle, pk=1297
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 0
+    Temps d'étude: 0:25:0
+    Accès restreint: false
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Modules désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Régression, pk=276
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Introduction à la régression, pk=1298
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:15:0
+    Accès restreint: false
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Association des variables et des coefficients, pk=3526
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Régression linéaire et arbre de décision, pk=3527
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Méthode des moindres carrés en régression, pk=1299
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:9:0
+    Accès restreint: false
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Distribution des erreurs, pk=3528
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Rôle de l'exposant, pk=3529
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Régression avec modèles linéaires dans les coefficients, pk=1300
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:8:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Interprétations des coefficients, pk=3530
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Variables catégorielles, pk=3531
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Exemple - Régression linéaire 2-D avec interaction, pk=1427
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:10:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Exemple - Régression multilinéaire sans variable catégorielle, pk=1429
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:10:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Régression multilinéaire avec variable catégorielle, pk=1432
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:6:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Régression forêt aléatoire, pk=1302
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:16:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Bootstrap forêt aléatoire, pk=3532
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Quel est le meilleur modèle, pk=3533
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Exemple - Régression forêt aléatoire, pk=1433
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:10:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Les métriques de qualité en régression, pk=1304
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:16:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Interprétation MSE, pk=3534
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Interprétation R carré, pk=3535
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Corrélation et causalité, pk=1305
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:3:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Trouvez la causalité, pk=3536
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Lien entre causalité et corrélation, pk=3537
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Exemple - Régression avec valeurs aberrantes, pk=1436
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:10:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Relation linaire et proportionnalité, pk=1307
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:2:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Signification ordonnée à l'origine, pk=3538
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Identifier le modèle linaire, pk=3539
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  Modules désactivés:
+  - Module: Exemples régression multi linéaire avec variable categorielle, pk=1301
+    Objectifs: null
+    Date d'échéance: null
+    Publié: false
+    Pondération: 0
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Exemple régression forêt aléatoire, pk=1303
+    Objectifs: null
+    Date d'échéance: null
+    Publié: false
+    Pondération: 0
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Exemples régression avec valeurs aberrantes, pk=1306
+    Objectifs: null
+    Date d'échéance: null
+    Publié: false
+    Pondération: 0
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Exemple - Régression multilinéaire avec variable catégorielle, pk=1430
+    Objectifs: null
+    Date d'échéance: null
+    Publié: false
+    Pondération: 0
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Classification, pk=277
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Introduction à la classification, pk=1308
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:14:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Identification du type de problème, pk=3540
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Formulation standard du modèle, pk=3541
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Classification régression logistique, pk=1309
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:14:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Interprétation des coefficients, pk=3542
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Fonction de perte régression logistique, pk=3543
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Exemple - Classification avec régression logistique, pk=1438
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:10:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Classification forêt aléatoire, pk=1311
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:17:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Échantillonnages des forêts aléatoires, pk=3544
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Interprétation entropie et gain d'information, pk=3545
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Exemple - Classification forêt aléatoire, pk=1440
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:10:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Les métriques de qualité en classification, pk=1313
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:17:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Interprétation aire sous la courbe ROC, pk=3546
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Interprétation précision, pk=3547
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  Modules désactivés:
+  - Module: Exemple de classification avec régression logistique, pk=1310
+    Objectifs: null
+    Date d'échéance: null
+    Publié: false
+    Pondération: 0
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Exemple classification forêt aléatoire, pk=1312
+    Objectifs: null
+    Date d'échéance: null
+    Publié: false
+    Pondération: 0
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Données, pk=278
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Collecte des données, pk=1314
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:12:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Nettoyage des données, pk=3548
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Nettoyage et aberrations, pk=1315
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:12:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Données aberrantes, pk=3549
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Imputation de données manquantes, pk=1316
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:19:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: MCAR, pk=3550
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Comparaison des méthodes, pk=3551
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Données d'entrainement déséquilibrées, pk=1317
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:14:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Métriques, pk=3552
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Échantillonnages aléatoire et synthétique, pk=3553
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Transformation des données, pk=1318
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:18:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Normalisation, pk=3554
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Trouver la bonne normalisation, pk=3555
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Réduction de la dimensionnalité, pk=1319
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:16:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Utilité de la compression de données, pk=3556
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Choix de la méthode de compression, pk=3557
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Génération d'un jeu de données à partir de similarités, pk=1320
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:9:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: La conception d'un pipeline de prétraitement des données, pk=1321
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:12:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Recherche en grille, pk=3558
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Pipeline de prétraitement des données, pk=3559
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Exemple - La conception d'un pipeline de prétraitement des données, pk=1442
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:10:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Modules désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Entraînement, pk=279
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Sur apprentissage et sous apprentissage, pk=1322
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:17:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Interprétation performance, pk=3560
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Sur apprentissage et sous apprentissage, pk=3561
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Séparation des données et validation croisée, pk=1323
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:16:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Validation croisée à 10 plis, pk=3562
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Augmentation K, pk=3563
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  - Module: Qu'est ce que la régularisation, pk=1324
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:16:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Effet de la régularisation, pk=3564
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Interprétation de Lasso, pk=3565
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  Modules désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Apprentissage supervisé et non supervisé, pk=280
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Apprentissage supervisé versus non supervisé, pk=1325
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 2
+    Temps d'étude: 0:20:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices:
+    - Exercice: Est-ce supervisé 1, pk=3566
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    - Exercice: Est-ce supervisé 2, pk=3567
+      Publié: true
+      Pondération: 1
+      Délai de correction: 0:0:15
+    Exercices désactivés: []
+  Modules désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Visualisation, pk=281
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Introduction aux outils de visualisation, pk=1326
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:6:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Introduction à Matplotlib, pk=1327
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:25:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Introduction à Seaborn, pk=1328
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:24:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Modules désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Scikit-learn, pk=291
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Introduction à la librairie Scikit-learn, pk=1373
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:18:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Modules désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Solutions, pk=322
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Solutions - Regression linéaire 2-D avec interaction, pk=1428
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - Régression multilinéaire sans variable catégorielle, pk=1434
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - Régression forêt aléatoire, pk=1435
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - Régression avec valeurs aberrantes, pk=1437
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - Classification avec régression logistique, pk=1439
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - Classification forêt aléatoire, pk=1441
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - La conception d'un pipeline de prétraitement des données, pk=1443
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - Qu'est ce que la régularisation, pk=1444
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - Apprentissage supervisé versus non supervisé, pk=1445
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  - Module: Solutions - Introduction à la librairie Scikit-learn, pk=1468
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Modules désactivés:
+  - Module: Solutions - Exemple - Régression multilinéaire sans variable catégorielle, pk=1431
+    Objectifs: null
+    Date d'échéance: null
+    Publié: false
+    Pondération: 0
+    Temps d'étude: 0:5:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+- Partie: Conclusion, pk=282
+  Date de début: null
+  Durée: indéterminée
+  Échéance des modules: null
+  Pondération: null
+  Capsule vidéo: null
+  Objectifs: null
+  Publié: true
+  Modules:
+  - Module: Conclusion, pk=1329
+    Objectifs: null
+    Date d'échéance: null
+    Publié: true
+    Pondération: 1
+    Temps d'étude: 0:10:0
+    Accès restreint: true
+    Capsule vidéo: null
+    Taille des équipes: null
+    Date limite création des équipes: null
+    Exercices: []
+    Exercices désactivés: []
+  Modules désactivés: []
+  Quiz: []
+  Quiz désactivés: []
+Parties désactivées: []
+Sections:
+- Section: Cohorte 1, pk=113
+  NRC: GIF-U014-03
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: https://fr.surveymonkey.com/r/6J2ZS9X
+  Taille des équipes: null
+  Publié: true
+  Examens: []
+  Examens désactivés: []
+- Section: Cohorte 2, pk=114
+  NRC: GIF-U014-04
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: https://fr.surveymonkey.com/r/6J2ZS9X
+  Taille des équipes: null
+  Publié: true
+  Examens: []
+  Examens désactivés: []
+- Section: Cohorte 3, pk=146
+  NRC: GIF-U014-05
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: https://fr.surveymonkey.com/r/6J2ZS9X
+  Taille des équipes: null
+  Publié: true
+  Examens: []
+  Examens désactivés: []
+- Section: FESP-1, pk=202
+  NRC: GIF-U014-07
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: |-
+    Pour cette formation, la majorité des activités se font en ligne de façon asynchrone, c'est-à-dire au moment le plus opportun pour chaque participant. Ces activités sont:
+
+    1. suivre les leçons des modules et expérimenter avec leurs exemples dynamiques;
+    2. compléter les exercices en lien avec ces leçons;
+    3. et compléter les épreuves chronométrées (quiz).
+
+    Durant la période du 10 au 28 mars (2025), 3 rencontres synchrones via ZOOM sont cependant prévues pour vous permettre de poser des questions en interagissant avec un enseignant. Il importe de bien se préparer pour ces ateliers, en étudiant **à l'avance** les modules pertinents.
+
+    Pour obtenir une attestation de participation confirmant le nombre d'heures reconnu pour cette formation, le participant doit compléter **tous** les modules et **au moins** 80% des quiz. Un module est considéré complété lorsque la leçon correspondante a été lue au moins une fois et que tous les exercices qui lui sont associés ont été réalisés avec une note d'**au moins** 95%, telle qu'accordée par le système de correction automatique. Idem pour les quiz.
+
+    Notez qu'en cas de difficultés à compléter les exercices et quiz, le participant peut en tout temps obtenir de l'aide en posant ses questions sur le forum de discussion. Notez aussi qu'aucune note n'est mentionnée sur les attestations émises pour cette formation.
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: https://forms.office.com/Pages/ResponsePage.aspx?id=1Yt3Vj9q00uiZZMWPk1b_vwb1ELvqMlLqdBAFjATS1dUNk9YVllJR0lFNU1WVEpRRE1QRTZSMU4yNC4u
+  Taille des équipes: null
+  Publié: true
+  Examens: []
+  Examens désactivés: []
+- Section: Générale, pk=75
+  NRC: null
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: https://fr.surveymonkey.com/r/5BV52JK
+  Taille des équipes: null
+  Publié: true
+  Examens: []
+  Examens désactivés: []
+- Section: Partenaires, pk=86
+  NRC: null
+  Durée de l'accès: null
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: null
+  Taille des équipes: null
+  Publié: true
+  Examens: []
+  Examens désactivés: []
+- Section: École d'hiver, pk=73
+  NRC: null
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: https://fr.surveymonkey.com/r/K9QV8HH
+  Taille des équipes: null
+  Publié: true
+  Examens: []
+  Examens désactivés: []
+Sections désactivées:
+- Section: Cohorte 4, pk=168
+  NRC: GIF-U014-06
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: null
+  Taille des équipes: null
+  Publié: true
+  Examens: []
+  Examens désactivés: []
+- Section: GIF-U024-01, pk=126
+  NRC: GIF-U024-01
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: null
+  Taille des équipes: null
+  Publié: false
+  Examens: []
+  Examens désactivés: []
+- Section: GIF-U024-02, pk=139
+  NRC: GIF-U024-02
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: null
+  Taille des équipes: null
+  Publié: false
+  Examens: []
+  Examens désactivés: []
+- Section: GIF-U024-03, pk=154
+  NRC: GIF-U024-03
+  Durée de l'accès: 365
+  Syllabus: null
+  Conditions particulières: null
+  Pourcentage min de temps: null
+  Pourcentage min de quiz: null
+  Sondage: null
+  Taille des équipes: null
+  Publié: false
+  Examens: []
+  Examens désactivés: []
+Projets: []
+Projets désactivés: []
+Thèmes: []
+Thèmes désactivés: []
